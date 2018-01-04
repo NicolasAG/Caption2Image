@@ -1,4 +1,5 @@
-﻿# PGM-Project
+﻿# Probabilistic Graphical Models Project: Caption to Images
+
 Combining both the image captioning and VAE tutorial
 
 https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/image_captioning
@@ -11,3 +12,7 @@ follow instructions from the image_captioning tutorial to build the vocabulary a
 ``` python resize.py --image_dir <path to train2014> ```
 
 then train the model with ```python train.py ```
+
+--
+
+Original repository: https://github.com/ppartha03/PGM-Project

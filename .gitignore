@@ -1,0 +1,6 @@
+give_access.sh
+data/*.pkl
+data/processed
+data/raw
+*.pyc
+

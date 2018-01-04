@@ -15,4 +15,10 @@ then train the model with ```python train.py ```
 
 --
 
+Supporting Slides: https://github.com/NicolasAG/Caption2Image/blob/master/doc/slides.pdf
+
+Report: https://github.com/NicolasAG/Caption2Image/blob/master/doc/report.pdf
+
+--
+
 Original repository: https://github.com/ppartha03/PGM-Project

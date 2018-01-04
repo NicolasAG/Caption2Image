@@ -13,6 +13,13 @@ follow instructions from the image_captioning tutorial to build the vocabulary a
 
 then train the model with ```python train.py ```
 
+
+--
+
+Supporting Slides: http://cs.mcgill.ca/~nangel3/ift6269-pgm/variational_encoder_decoder[slides].pdf
+
+Project Repor: http://cs.mcgill.ca/~nangel3/ift6269-pgm/variational_encoder_decoder[report].pdf
+
 --
 
 Original repository: https://github.com/ppartha03/PGM-Project
